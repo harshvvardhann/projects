@@ -1,3 +1,3 @@
 # projects
-All College Projects (Web Development + Python) + <br>
+All College Projects (Web Development + Python) <br>
 Author - Rajput Harshvardhan Singh
